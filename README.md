@@ -25,11 +25,10 @@ Data Visualization using Excel
     •Your dashboard in excel
   # Dashvoard Mockup  
   <p align="center">
-  <img src="your_relative_path_here" width="350" title="hover text">
-  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
+  <img src="8565811653278e88d98cec812944d01f-0.png" width="900" alt="accessibility text">
 </p>
 
   # HR Dashvoard   
   <p align="center">
-  <img src="Screenshot (97).png" width="350" alt="accessibility text">
+  <img src="Screenshot (97).png" width="1000" alt="accessibility text">
 </p>
