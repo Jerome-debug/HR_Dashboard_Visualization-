@@ -23,12 +23,12 @@ Data Visualization using Excel
     •Design an interactive HR dashboard in Excel for the data (Note: You may have to merge the dataset you are given for the analysis into a single file using Power Query)
     •Your dashboard mockup
     •Your dashboard in excel
-  # Dashvoard Mockup  
+  # Dashboard Mockup  
   <p align="center">
   <img src="8565811653278e88d98cec812944d01f-0.png" width="900" alt="accessibility text">
 </p>
 
-  # HR Dashvoard   
+  # HR Dashboard   
   <p align="center">
   <img src="Screenshot (97).png" width="1000" alt="accessibility text">
 </p>
