@@ -25,7 +25,7 @@ Data Visualization using Excel
     •Your dashboard in excel
   # Dashboard Mockup  
   <p align="center">
-  <img src="Screenshot (108).png" width="900" alt="accessibility text">
+  <img src="Screenshot (108).png" width="1000" alt="accessibility text">
 </p>
 
   # HR Dashboard   
